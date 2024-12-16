@@ -32,7 +32,6 @@ coverage/
 
 # Test output
 *.tgz
-*.test.js
 *.spec.js
 
 # Miscellaneous
